@@ -4,4 +4,4 @@
 
 Prior to the next class, your team should have a data set from NYC Open Data selected, and be able to access that data in your app using SwiftyJSON.  
 
-<a href='https://learn.co/lessons/pc-ios-day08-codeChallenge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-day08-codeChallenge' title='Code Challenge: Final Project Milestones'>Code Challenge: Final Project Milestones</a> on Learn.co and start learning to code for free.</p>
